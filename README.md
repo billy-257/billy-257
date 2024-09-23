@@ -3,7 +3,7 @@
 # BILLY-257
 
 <p align="center">
-  <a href="https://github.com/billy-257"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=BILLY-257-+v2+MultiDevice;Developed+by+Ethix~Xsid;Give+star+and+forks+this+Repo+🌟" alt="BILLYReadme"></a>
+  <a href="https://github.com/billy-257"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=BILLY-257+MultiDevice;Developed+by+billy-257;Give+star+and+forks+this+Repo+🌟" alt="BILLYReadme"></a>
 </p>
 
 ## 🚀 Getting Started
@@ -67,7 +67,7 @@ You can also deploy the bot directly on your Android device using Termux. Here�
    Clone the forked repository using the following command:
 
    ```bash
-   git clone https://github.com/billy-Xsid/billy-257.git
+   git clone https://github.com/billy-257/billy-257.git
    ```
 
 4. **Navigate to the Project Directory:**

@@ -1,4 +1,4 @@
-billy-257 is a multi-device WhatsApp bot designed to provide enhanced functionality and automation for WhatsApp users. Developed by billy-257, this repository offers an easy-to-deploy solution for integrating with WhatsApp through a bot interface.
+billy-257 is a WhatsApp bot designed to provide enhanced functionality and automation for WhatsApp users. Developed by billy-257, this repository offers an easy-to-deploy solution for integrating with WhatsApp through a bot interface.
 - 👋 Hi, I’m @billy-257
 - 👀 I’m interested in music,love stories
 - 🌱 I’m currently learning about computer science
